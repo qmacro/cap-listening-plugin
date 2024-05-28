@@ -1,0 +1,7 @@
+{
+  "name": "cap-listening-plugin",
+  "version": "1.0.0",
+  "author": "DJ Adams <qmacro@gmail.com>",
+  "license": "Apache-2.0",
+  "description": "A CAP plugin that touches a 'listening' file when the server is listening"
+}
