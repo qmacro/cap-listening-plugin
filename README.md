@@ -11,3 +11,11 @@ npm install \
     --save-dev \
     git+https://github.com/qmacro/cap-listening-plugin.git
 ```
+
+or
+
+```shell
+npm install \
+    --save-dev \
+    github:qmacro/cap-listening-plugin
+```
